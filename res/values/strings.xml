@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MomaUI</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="refresh">Refresh</string>
+    <string name="more_info">More Information</string>
+    <string name="visit_moma">Visit MOMA</string>
+    <string name="not_now">Not Now</string>
+    <string name="dialog_text">Inspired by the works of Piet Mondrian and Ben Nicholson.\n\nClick below to learn more!</string>
+
+</resources>
